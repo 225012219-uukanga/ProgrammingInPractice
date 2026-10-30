@@ -1,0 +1,5 @@
+*.o
+*.exe
+mfms
+data/*.tmp
+data/*.bak
